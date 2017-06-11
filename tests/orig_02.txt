@@ -1,0 +1,12 @@
+For this one, most of the words
+are in the default dictionary.
+The default dictionary is very
+small (about five hundred words),
+but it still has the ones that we
+use most.  Still, some of these
+words will be marked as spelling
+errors.  Adding words to the
+dictionary as you check spelling
+is a way to prevent it from
+complaining about the same words
+over and over.

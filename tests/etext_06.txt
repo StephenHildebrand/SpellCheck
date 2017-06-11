@@ -1,0 +1,7 @@
+This file will be tested with a larger word list, one
+that has just about any word I am likely to use
+(although still no contractions).  So, although this
+file would have a lot of problems if we checked the
+spelling using the default, short dictionary list, I
+do not think there will be any complaints when I try
+this out with the longer word list.

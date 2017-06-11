@@ -1,0 +1,14 @@
+This one has a word or
+two that I did not spell
+right.  This is a good
+chance to tell the tool
+to fix any word we did not
+get right.
+
+Right now, I try to not
+use any word that is not
+in the base word list.  This
+is hard.  I do not like to
+talk this way.
+
+I feel dumb.

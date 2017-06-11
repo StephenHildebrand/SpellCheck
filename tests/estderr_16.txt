@@ -1,0 +1,1 @@
+usage: spellcheck <textfile.txt> [words.txt]

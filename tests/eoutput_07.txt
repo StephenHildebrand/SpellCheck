@@ -1,0 +1,91 @@
+
+This is just a [31mregular[0m text file, with some
+common words, some speling errors and such.
+(r)eplace, (a)dd, (n)ext or (q)uit: 
+This is just a regular [31mtext[0m file, with some
+common words, some speling errors and such.
+(r)eplace, (a)dd, (n)ext or (q)uit: 
+This is just a regular text [31mfile[0m, with some
+common words, some speling errors and such.
+(r)eplace, (a)dd, (n)ext or (q)uit: 
+This is just a regular text file, with some
+common [31mwords[0m, some speling errors and such.
+Thisword is interesting because we have to
+(r)eplace, (a)dd, (n)ext or (q)uit: 
+This is just a regular text file, with some
+common words, some [31mspeling[0m errors and such.
+Thisword is interesting because we have to
+(r)eplace, (a)dd, (n)ext or (q)uit: 
+This is just a regular text file, with some
+common words, some [31mspelling[0m errors and such.
+Thisword is interesting because we have to
+(r)eplace, (a)dd, (n)ext or (q)uit: 
+This is just a regular text file, with some
+common words, some spelling [31merrors[0m and such.
+Thisword is interesting because we have to
+(r)eplace, (a)dd, (n)ext or (q)uit: 
+common words, some spelling errors and such.
+[31mThisword[0m is interesting because we have to
+replace it with two smaller words.  We have
+(r)eplace, (a)dd, (n)ext or (q)uit: 
+common words, some spelling errors and such.
+This word is [31minteresting[0m because we have to
+replace it with two smaller words.  We have
+(r)eplace, (a)dd, (n)ext or (q)uit: 
+common words, some spelling errors and such.
+This word is interesting [31mbecause[0m we have to
+replace it with two smaller words.  We have
+(r)eplace, (a)dd, (n)ext or (q)uit: 
+This word is interesting because we have to
+[31mreplace[0m it with two smaller words.  We have
+the same problem righthere.  When I replace
+(r)eplace, (a)dd, (n)ext or (q)uit: 
+This word is interesting because we have to
+replace it with two [31msmaller[0m words.  We have
+the same problem righthere.  When I replace
+(r)eplace, (a)dd, (n)ext or (q)uit: 
+replace it with two smaller words.  We have
+the same problem [31mrighthere[0m.  When I replace
+some of these words, I will introduse some
+(r)eplace, (a)dd, (n)ext or (q)uit: 
+replace it with two smaller words.  We have
+the same problem [31mrte[0m heere.  When I replace
+some of these words, I will introduse some
+(r)eplace, (a)dd, (n)ext or (q)uit: 
+replace it with two smaller words.  We have
+the same problem right [31mheere[0m.  When I replace
+some of these words, I will introduse some
+(r)eplace, (a)dd, (n)ext or (q)uit: 
+the same problem right here.  When I replace
+some of these words, I will [31mintroduse[0m some
+more spelling errrs, to make sure the program
+(r)eplace, (a)dd, (n)ext or (q)uit: 
+the same problem right here.  When I replace
+some of these words, I will [31mintroduce[0m some
+more spelling errrs, to make sure the program
+(r)eplace, (a)dd, (n)ext or (q)uit: 
+some of these words, I will introduce some
+more spelling [31merrrs[0m, to make sure the program
+spellchecks the words that get inserted via
+(r)eplace, (a)dd, (n)ext or (q)uit: 
+some of these words, I will introduce some
+more spelling errors, to make sure the [31mprogram[0m
+spellchecks the words that get inserted via
+(r)eplace, (a)dd, (n)ext or (q)uit: 
+more spelling errors, to make sure the program
+[31mspellchecks[0m the words that get inserted via
+the replace command.
+(r)eplace, (a)dd, (n)ext or (q)uit: 
+more spelling errors, to make sure the program
+spellchecks the words that get [31minserted[0m via
+the replace command.
+(r)eplace, (a)dd, (n)ext or (q)uit: 
+more spelling errors, to make sure the program
+spellchecks the words that get inserted [31mvia[0m
+the replace command.
+(r)eplace, (a)dd, (n)ext or (q)uit: 
+spellchecks the words that get inserted via
+the replace [31mcommand[0m.
+(r)eplace, (a)dd, (n)ext or (q)uit: Spellcheck complete.
+Backing up text_07.txt to text_07.txt.bak
+Writing updated text_07.txt

@@ -1,0 +1,18 @@
+
+This one has a [31mwerd[0m or
+two that I did not spell
+(r)eplace, (a)dd, (n)ext or (q)uit: 
+two that I did not spell
+[31mrigth[0m.  This is a good
+chance to tell the tool
+(r)eplace, (a)dd, (n)ext or (q)uit: 
+Right now, I try to not
+use any word [31mtht[0m is not
+in the bace word list.  This
+(r)eplace, (a)dd, (n)ext or (q)uit: 
+use any word that is not
+in the [31mbace[0m word list.  This
+is hard.  I do not like to
+(r)eplace, (a)dd, (n)ext or (q)uit: Spellcheck complete.
+Backing up text_04.txt to text_04.txt.bak
+Writing updated text_04.txt

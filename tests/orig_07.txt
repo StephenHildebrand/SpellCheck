@@ -1,0 +1,9 @@
+This is just a regular text file, with some
+common words, some speling errors and such.
+Thisword is interesting because we have to
+replace it with two smaller words.  We have
+the same problem righthere.  When I replace
+some of these words, I will introduse some
+more spelling errrs, to make sure the program
+spellchecks the words that get inserted via
+the replace command.

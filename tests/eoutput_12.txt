@@ -1,0 +1,12 @@
+
+This is a big file, which I will [31mspellcheck[0m using the large dictionary.
+Depending on how you look up words, this may be really slow.  Now, I
+(r)eplace, (a)dd, (n)ext or (q)uit: 
+I could just say the same thing, over and over again for a while.
+I could just say the same thing, over and over [31magan[0m for a while.
+I could just say the same thing, over and over again for a while.
+(r)eplace, (a)dd, (n)ext or (q)uit: 
+Well, really it is ahead a bit.  When I stop typing, there will
+be a [31mnewline[0m character, then the file will end.
+
+(r)eplace, (a)dd, (n)ext or (q)uit: 

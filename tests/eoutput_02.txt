@@ -1,0 +1,42 @@
+
+For this one, most of the [31mwords[0m
+are in the default dictionary.
+(r)eplace, (a)dd, (n)ext or (q)uit: 
+For this one, most of the words
+are in the [31mdefault[0m dictionary.
+The default dictionary is very
+(r)eplace, (a)dd, (n)ext or (q)uit: 
+For this one, most of the words
+are in the default [31mdictionary[0m.
+The default dictionary is very
+(r)eplace, (a)dd, (n)ext or (q)uit: 
+small (about five hundred words),
+but it still has the [31mones[0m that we
+use most.  Still, some of these
+(r)eplace, (a)dd, (n)ext or (q)uit: 
+use most.  Still, some of these
+words will be [31mmarked[0m as spelling
+errors.  Adding words to the
+(r)eplace, (a)dd, (n)ext or (q)uit: 
+use most.  Still, some of these
+words will be marked as [31mspelling[0m
+errors.  Adding words to the
+(r)eplace, (a)dd, (n)ext or (q)uit: 
+words will be marked as spelling
+[31merrors[0m.  Adding words to the
+dictionary as you check spelling
+(r)eplace, (a)dd, (n)ext or (q)uit: 
+words will be marked as spelling
+errors.  [31mAdding[0m words to the
+dictionary as you check spelling
+(r)eplace, (a)dd, (n)ext or (q)uit: 
+dictionary as you check spelling
+is a way to [31mprevent[0m it from
+complaining about the same words
+(r)eplace, (a)dd, (n)ext or (q)uit: 
+is a way to prevent it from
+[31mcomplaining[0m about the same words
+over and over.
+(r)eplace, (a)dd, (n)ext or (q)uit: Spellcheck complete.
+Backing up text_02.txt to text_02.txt.bak
+Writing updated text_02.txt

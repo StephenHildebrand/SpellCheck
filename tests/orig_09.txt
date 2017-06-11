@@ -1,0 +1,4 @@
+What's in this file doesn't matter.
+The dictionary we're using is bad, so
+the program won't get far enough to
+spellcheck.

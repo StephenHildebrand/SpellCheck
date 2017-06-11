@@ -1,0 +1,12 @@
+
+test.  There is
+just one [31mwerd[0m
+that I did not
+(r)eplace, (a)dd, (n)ext or (q)uit: Unknown command
+
+test.  There is
+just one [31mwerd[0m
+that I did not
+(r)eplace, (a)dd, (n)ext or (q)uit: Spellcheck complete.
+Backing up text_13.txt to text_13.txt.bak
+Writing updated text_13.txt

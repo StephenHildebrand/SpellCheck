@@ -1,0 +1,3 @@
+Spellcheck complete.
+Backing up text_06.txt to text_06.txt.bak
+Writing updated text_06.txt

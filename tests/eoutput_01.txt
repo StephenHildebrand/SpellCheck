@@ -1,0 +1,7 @@
+
+test.  There is
+just one [31mwerd[0m
+that I did not
+(r)eplace, (a)dd, (n)ext or (q)uit: Spellcheck complete.
+Backing up text_01.txt to text_01.txt.bak
+Writing updated text_01.txt

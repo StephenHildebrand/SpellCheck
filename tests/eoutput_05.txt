@@ -1,0 +1,7 @@
+
+Test test tEst TEST
+[31mtesting[0m test
+Testing tEST
+(r)eplace, (a)dd, (n)ext or (q)uit: Spellcheck complete.
+Backing up text_05.txt to text_05.txt.bak
+Writing updated text_05.txt

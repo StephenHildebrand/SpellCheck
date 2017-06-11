@@ -1,0 +1,4 @@
+
+For this one, most of the [31mwords[0m
+are in the default dictionary.
+(r)eplace, (a)dd, (n)ext or (q)uit: 
